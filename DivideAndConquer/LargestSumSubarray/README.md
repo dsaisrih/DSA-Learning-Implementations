@@ -183,6 +183,4 @@ Without it, the algorithm fails when the best subarray spans both halves.
   - `animateTree()` → visualization  
 ```
 
----
-
 
