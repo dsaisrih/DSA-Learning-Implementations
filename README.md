@@ -42,9 +42,10 @@ A detailed visualization of how the **Maximum Subarray Problem** is solved using
 ---
 
 ## 🛠️ Tech Stack
-- 💻 **Languages:** JavaScript, Python, C++  
+- 💻 **Languages:** JavaScript, Python, C++ , etc.
 - 🎨 **Frontend:** HTML, CSS, JS (for visualizations)  
 - ⚙️ **Tools:** Git, VS Code  
+- 🧠 **AI Used :** ChatGPT , Copilot ,etc .
 
 ---
 
